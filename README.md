@@ -1,21 +1,3 @@
-### 👋 Hi there, My name is Anton Kant<br>
-
----
-- Python
-- JavaScript
-- OS (Windows, Linux)
-- SQL (MS SQL)
----
-
-### `Langs`
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/c%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white "❤️")
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java)
-
-### `Tools and other`
-![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
-![Markdown](https://img.shields.io/badge/Markdown-090909?style=for-the-badge&logo=markdown)
-
 ## Hi there 👋 My name is Anton Kant, I'm a Backand developerr
 
 ## Technology stack
