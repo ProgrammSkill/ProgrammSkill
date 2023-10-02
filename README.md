@@ -17,6 +17,7 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-red?style=flat-square&logo=Aiogram)
 
 **Databases**
+
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -29,6 +30,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+**My Stats**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProgrammSkill&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
