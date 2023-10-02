@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Anton Kant, I'm a Backand developerr
+## Hi there 👋 My name is Anton Kant, I'm a Back-end developerr
 
 ## Technology stack
 
